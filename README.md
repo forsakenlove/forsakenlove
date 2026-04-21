@@ -1,4 +1,6 @@
-![Image](https://github.com/user-attachments/assets/bf146ab6-4b45-440a-a011-9597f40d11db)
+<p align="center">
+  <img width="480" height="389" alt="twitter-gif-2043521406185488660_69e6b778de9d5" src="https://github.com/user-attachments/assets/f6670c00-0f97-4a28-b429-3f3d5f60c0e6" />
+</p>
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
